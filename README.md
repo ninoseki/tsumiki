@@ -46,3 +46,11 @@ validators.is_ipv4("1.1.1.1")
 validators.is_ipv6("2001:4860:0:2001::68")
 >>> true
 ```
+
+## Installation & Usage
+
+```bash
+$ go build
+# built executable is compatible with OPA Rego
+$ ./tsumiki --help
+```
