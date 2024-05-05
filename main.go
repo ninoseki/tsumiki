@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ninoseki/tsumiki/cmd"
+	"github.com/open-policy-agent/opa/cmd"
 
 	_ "github.com/ninoseki/tsumiki/functions"
 )
